@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;   /* White background */
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;   /* Horizontal center */
+  align-items: center;       /* Vertical center */
+  height: 100vh;             /* Full screen height */
+}
+
+.container {
+  text-align: center;        /* Center text */
+}
+
